@@ -1,10 +1,10 @@
 # IAB project
 
-A hands-free controller for human-computer interfaces using EOG and EMG signals was developed. 
+A hands-free controller for human-computer interfaces using EOG and EMG signals. It utilizes Arduino for signal acquisition, and Python for signal processing and interface control. 
 
 ## Background
 
-This project is for the course *Instrumentation and Acquisition of Biosignals' at Tecnico Lisboa. 
+This project is for the course 'Instrumentation and Acquisition of Biosignals' at Tecnico Lisboa. 
 
 ## Usage
 
